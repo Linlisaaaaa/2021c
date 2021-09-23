@@ -5,7 +5,7 @@
 
 # MarkDown語法
 
-![kun.png](car.jpg)
+![kun](kun.png)
 
 ## 第01週
 
