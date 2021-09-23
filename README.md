@@ -5,6 +5,8 @@
 
 # MarkDown語法
 
+![kun.png](kun.jpg)
+
 ## 第01週
 
 ```C
